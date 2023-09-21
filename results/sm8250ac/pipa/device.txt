@@ -1,0 +1,2 @@
+Model: Qualcomm Technologies, Inc. xiaomi pipa;
+Compatible: qcom,kona-mtp;qcom,kona;qcom,mtp;

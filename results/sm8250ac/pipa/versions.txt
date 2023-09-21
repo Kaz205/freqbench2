@@ -1,0 +1,2 @@
+Kernel: Linux version 4.19.289-perf-gf0610d891b87 (kazuki@desktop) (ClangBuiltLinux clang version 16.0.6, ClangBuiltLinux LLD 16.0.6) #1 SMP PREEMPT Wed Sep 6 09:42:47 JST 2023
+Python: Python 3.8.5
